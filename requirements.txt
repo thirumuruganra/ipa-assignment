@@ -1,0 +1,9 @@
+# Core runtime
+numpy>=1.24,<3
+opencv-python>=4.8,<5
+scikit-image>=0.22,<0.25
+Pillow>=9,<11
+matplotlib>=3.7,<4
+
+# Notebook runtime
+jupyter>=1.0
